@@ -22,14 +22,22 @@ Quick-commerce businesses run on thin margins and tight delivery windows. Leader
 ### Executive Overview (KPIs, Revenue Trend, Orders by Hour, Revenue by Zone)
 [Executive Overview](screenshots/page1_executive_overview.png)
 
+screenshots/Screenshot 2026-08-11 150010.png
+
 ### Delivery Performance (On-Time Delivery % by Store — 37%–80% range across 12 stores)
 [Delivery Performance](screenshots/page2_delivery_performance.png)
+
+screenshots/Screenshot 2026-08-11 150020.png
 
 ### Product & Category Performance (Revenue vs Profit Margin Quadrant Analysis)
 [Product & Category Performance](screenshots/page3_product_performance.png)
 
+screenshots/Screenshot 2026-08-11 150032.png
+
 ### Customer Insights (New vs Returning, Payment Method Mix, Repeat Order Rate)
 [Customer Insights](screenshots/page4_customer_insights.png)
+screenshots/Screenshot 2026-08-11 150045.png
+
 
 ## 🔍 Key Insights
 
