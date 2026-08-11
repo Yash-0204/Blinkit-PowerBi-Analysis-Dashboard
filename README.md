@@ -19,25 +19,25 @@ Quick-commerce businesses run on thin margins and tight delivery windows. Leader
 
 ## 📊 Screenshots
 
-### Executive Overview (KPIs, Revenue Trend, Orders by Hour, Revenue by Zone)
-[Executive Overview](screenshots/page1_executive_overview.png)
+### Executive Overview
+KPI summary, revenue trend, orders by hour, and revenue by zone with synced Year + Zone slicers.
 
-screenshots/Screenshot 2026-08-11 150010.png
+![Executive Overview](screenshots/page1_executive_overview.png)
 
-### Delivery Performance (On-Time Delivery % by Store — 37%–80% range across 12 stores)
-[Delivery Performance](screenshots/page2_delivery_performance.png)
+### Delivery Performance
+On-time delivery tracking across all 12 dark stores, revealing a **37%–80% on-time delivery range** — a clear operational red flag at the underperforming end.
 
-screenshots/Screenshot 2026-08-11 150020.png
+![Delivery Performance](screenshots/page2_delivery_performance.png)
 
-### Product & Category Performance (Revenue vs Profit Margin Quadrant Analysis)
-[Product & Category Performance](screenshots/page3_product_performance.png)
+### Product & Category Performance
+Revenue and margin analysis at the category and product level, including a Revenue-vs-Margin quadrant chart to separate high-volume categories from high-profit ones.
 
-screenshots/Screenshot 2026-08-11 150032.png
+![Product & Category Performance](screenshots/page3_product_performance.png)
 
-### Customer Insights (New vs Returning, Payment Method Mix, Repeat Order Rate)
-[Customer Insights](screenshots/page4_customer_insights.png)
-screenshots/Screenshot 2026-08-11 150045.png
+### Customer Insights
+Customer mix, payment preferences, and spending behavior by customer type.
 
+![Customer Insights](screenshots/page4_customer_insights.png)
 
 ## 🔍 Key Insights
 
@@ -94,6 +94,8 @@ Other measures include: Total Revenue, Gross Profit, Profit Margin %, On-Time De
 A full PDF export of all four pages is also included for anyone without Power BI Desktop installed: `Blinkit_Dashboard_Export.pdf`
 
 ---
+
+Author: Yash Srivastava Linkedin: www.linkedin.com/in/yash-srivastava-93a95a36a
 
 📫 Connect with me: [GitHub](https://github.com/Yash-0204)
 
