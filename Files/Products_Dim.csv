@@ -1,0 +1,37 @@
+ProductID,ProductName,Category,SubCategory,UnitPrice,UnitCost
+P001,QuickBite Tomato 1kg,Fruits & Vegetables,Vegetables,35,23.51
+P002,PureLeaf Onion 1kg,Fruits & Vegetables,Vegetables,30,22.57
+P003,PureLeaf Potato 1kg,Fruits & Vegetables,Vegetables,25,16.37
+P004,Freshly Banana 6pcs,Fruits & Vegetables,Fruits,40,32.31
+P005,HomeStock Apple 4pcs,Fruits & Vegetables,Fruits,120,79.44
+P006,Freshly Mango 1kg,Fruits & Vegetables,Fruits,90,73.01
+P007,GreenCart Toned Milk 500ml,Dairy & Breakfast,Milk,28,21.16
+P008,PureLeaf Curd 400g,Dairy & Breakfast,Milk,35,25.79
+P009,GreenCart Brown Bread 400g,Dairy & Breakfast,Bread & Eggs,45,34.32
+P010,DailyBasket Eggs 6pcs,Dairy & Breakfast,Bread & Eggs,42,28.29
+P011,DailyBasket Corn Flakes 300g,Dairy & Breakfast,Cereal,150,117.6
+P012,QuickBite Oats 500g,Dairy & Breakfast,Cereal,110,81.08
+P013,GreenCart Potato Chips 52g,Snacks & Munchies,Chips,20,15.78
+P014,HomeStock Nachos 150g,Snacks & Munchies,Chips,65,53.09
+P015,DailyBasket Mixture Namkeen 200g,Snacks & Munchies,Namkeen,55,37.66
+P016,HomeStock Sev 200g,Snacks & Munchies,Namkeen,45,32.95
+P017,GreenCart Chocolate Bar 40g,Snacks & Munchies,Chocolates,40,28.4
+P018,HomeStock Chocolate Box 100g,Snacks & Munchies,Chocolates,180,124.2
+P019,GreenCart Cola 750ml,Cold Drinks & Juices,Soft Drinks,40,31.45
+P020,GreenCart Lemon Soda 750ml,Cold Drinks & Juices,Soft Drinks,38,25.53
+P021,QuickBite Orange Juice 1L,Cold Drinks & Juices,Juices,110,80.23
+P022,DailyBasket Mixed Fruit Juice 1L,Cold Drinks & Juices,Juices,115,76.37
+P023,DailyBasket Mineral Water 1L,Cold Drinks & Juices,Water,20,16.05
+P024,PureLeaf Cream Biscuits 200g,Bakery & Biscuits,Biscuits,30,20.25
+P025,Freshly Digestive Biscuits 250g,Bakery & Biscuits,Biscuits,55,42.05
+P026,DailyBasket Chocolate Cake Slice,Bakery & Biscuits,Cakes,60,48.19
+P027,HomeStock Muffin Pack 4pcs,Bakery & Biscuits,Cakes,90,61.82
+P028,Freshly Soap Bar 100g,Personal Care,Bath & Body,45,30.79
+P029,QuickBite Body Wash 250ml,Personal Care,Bath & Body,180,127.58
+P030,PureLeaf Shampoo 340ml,Personal Care,Hair Care,210,168.85
+P031,QuickBite Hair Oil 200ml,Personal Care,Hair Care,140,107.6
+P032,PureLeaf Toothpaste 150g,Personal Care,Oral Care,95,62.02
+P033,Freshly Detergent Powder 1kg,Home & Cleaning,Laundry,120,81.26
+P034,GreenCart Fabric Softener 500ml,Home & Cleaning,Laundry,150,109.22
+P035,GreenCart Dishwash Liquid 500ml,Home & Cleaning,Cleaning,99,75.98
+P036,Freshly Floor Cleaner 1L,Home & Cleaning,Cleaning,135,88.53

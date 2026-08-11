@@ -1,0 +1,13 @@
+StoreID,StoreName,City,Zone
+DS01,Blinkit DS - Indiranagar,Bengaluru,South
+DS02,Blinkit DS - Koramangala,Bengaluru,South
+DS03,Blinkit DS - Andheri,Mumbai,West
+DS04,Blinkit DS - Powai,Mumbai,West
+DS05,Blinkit DS - Sector 29,Gurugram,North
+DS06,Blinkit DS - Dwarka,Delhi,North
+DS07,Blinkit DS - Salt Lake,Kolkata,East
+DS08,Blinkit DS - Park Street,Kolkata,East
+DS09,Blinkit DS - Banjara Hills,Hyderabad,Central
+DS10,Blinkit DS - Hitech City,Hyderabad,Central
+DS11,Blinkit DS - Anna Nagar,Chennai,South
+DS12,Blinkit DS - Baner,Pune,West
