@@ -87,15 +87,16 @@ Other measures include: Total Revenue, Gross Profit, Profit Margin %, On-Time De
 
 ## 🚀 How to Use
 
-1. Download `Blinkit_Sales_Dashboard.pbix` from this repo
-2. Open in Power BI Desktop (free download from Microsoft)
-3. Use the Year, Zone, and Category slicers to explore the data interactively
+The `Files/` folder contains:
 
-A full PDF export of all four pages is also included for anyone without Power BI Desktop installed: `Blinkit_Dashboard_Export.pdf`
+- **`Blinkit-PowerBI-Analysis-Dashboard.pdf`** — a full export of all four dashboard pages, viewable without Power BI installed
+- **`Sales_Fact.csv`, `Products_Dim.csv`, `Stores_Dim.csv`** — the raw dataset used to build the model, in case you want to explore the data or rebuild the report yourself
+
+To explore the dashboard interactively (slicers, drill-downs, tooltips), open the PDF for a static walkthrough, or use the CSVs to recreate the model in Power BI Desktop using the DAX measures documented below.
 
 ---
 
-Author: Yash Srivastava Linkedin: www.linkedin.com/in/yash-srivastava-93a95a36a
+Author: Yash Srivastava  Linkedin:www.linkedin.com/in/yash-srivastava-93a95a36a
 
 📫 Connect with me: [GitHub](https://github.com/Yash-0204)
 
